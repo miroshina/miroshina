@@ -1,3 +1,3 @@
 -Hi, I’m (@miroshina) Miroshina Aleksandra
 -I’m interested in programming
--I’m currently study bioinformatics at LMU Munich
+-I’m currently studying bioinformatics at LMU Munich
